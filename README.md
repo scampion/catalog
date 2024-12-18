@@ -580,6 +580,28 @@ This list contains 280 awesome open-source projects grouped into 17 categories. 
    theme: cluster
    ```
 </details>
+
+
+
+<details>
+	<summary><b><a href="https://github.com/scampion/mkdocs-monospace-theme">MonoWeb</a></b>  - 🥉0 ·  ⭐ 0 · <code>❗MIT</code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/32/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>
+	This is a theme for MkDocs that is based on the Monospace Web theme.
+</summary>
+
+<img src="https://github.com/scampion/mkdocs-monospace-theme/blob/main/screenshot.png" width="400" align="right">
+
+- [PyPi](https://pypi.org/project/mkdocs-cluster) (📥 0 / month):
+	```
+	pip install mkdocs-monoweb-theme
+	```
+- [GitHub](https://gitlab.com/kaliko/mkdocs-cluster) (🔀 1 · ⏱️ 02.06.2016)
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#theme):
+   ```yaml
+   theme: monoweb
+   ```
+</details>
+
+
 <br>
 
 ## 💻 API documentation building
